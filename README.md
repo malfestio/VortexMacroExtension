@@ -6,8 +6,12 @@ Load Your Extension in Firefox:
 4 - Select the manifest.json file from your autoclick-extension directory.
 
 autoclick-extension/
-│
-├── manifest.json
-├── content.js
-├── background.js (if you have background tasks)
-├── popup.html (optional)
+
+manifest.json
+
+content.js
+
+background.js (if you have background tasks)
+
+popup.html (optional)
+
